@@ -633,6 +633,13 @@ export function Chat() {
           </div>
         </div>
         <div className="window-actions">
+          <div className={styles["window-action-button"]}>
+           <div>
+              <a href={REPO_URL}  target="_blank">
+        点击获取账号
+              </a>
+           </div>
+          </div>
           <div className={"window-action-button" + " " + styles.mobile}>
             <IconButton
               icon={<ReturnIcon />}
