@@ -4,7 +4,7 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized:
-      "现在是未授权状态，请点击左下角[设置](/#/settings)按钮输入访问密码。",
+      "现在是未授权状态，请点击左下角[设置](/#/settings)按钮输入访问密码，另外请您设置API KEY!!! 请您点击左下角[设置](/#/settings)按钮 在页面输入您的有效API Key即可正常访问，格式：sk-xxx。如需要ChatGPT账号，请[点击获取账号](https://www.openaibuying.com/)！",
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} 条对话`,
