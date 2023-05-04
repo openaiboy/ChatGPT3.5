@@ -20,7 +20,7 @@ import DarkIcon from "../icons/dark.svg";
 import AutoIcon from "../icons/auto.svg";
 import BottomIcon from "../icons/bottom.svg";
 import StopIcon from "../icons/pause.svg";
-
+import { REPO_URL } from "../constant";
 import {
   Message,
   SubmitKey,
