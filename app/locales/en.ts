@@ -5,7 +5,7 @@ const en: LocaleType = {
   WIP: "Coming Soon...",
   Error: {
     Unauthorized:
-      "Unauthorized access, please enter access code in settings page.",
+     "现在是未授权状态，请点击左下角[设置](/#/settings)按钮输入访问密码，另外请您设置API KEY!!! 请您点击左下角[设置](/#/settings)按钮 在页面输入您的有效API Key即可正常访问，格式：sk-xxx。如需要ChatGPT账号，请[点击获取账号](https://thoughts.teambition.com/share/6460f47ec98de800422c4d5e#title=OpenAI%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0)！",
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} messages`,
